@@ -1,6 +1,11 @@
 package org.aravindh.AravindhPoject;
 
 public class SampleClass {
+	
+	public void method1() {
+		System.out.println("1");
+
+	}
 public static void main(String[] args) {
 	String s="aravindh";
 	String rev=" ";
